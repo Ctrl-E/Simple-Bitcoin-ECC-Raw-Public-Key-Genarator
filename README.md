@@ -12,6 +12,8 @@ Replace your privKey key with private key of your choice and run the script
 
 # Donations 
 
-BTC - 1ECPGxnLYu5wxkiDYu5fsvvWyzJyUxWqLY
-ETH (Erc20)- 0x19a3c037777eefaf80b265a4d727c418eae84728
+BTC - 1ECPGxnLYu5wxkiDYu5fsvvWyzJyUxWqLY <br>
+ <br>
+ETH (Erc20)- 0x19a3c037777eefaf80b265a4d727c418eae84728 <br>
+ <br>
 XRP (Tag 101754728) - rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh
